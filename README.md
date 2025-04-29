@@ -1,9 +1,10 @@
 ## Hi there 👋
-🚀 Studying to become a Data Engineer with a focus on Data Analytics. Passionate about understanding and transforming large volumes of information into practical solutions. I'm acquiring skills in data analysis, modeling, and programming tools and techniques to solve complex problems and generate valuable insights. My goal is to continue learning and developing efficient solutions while collaborating with multidisciplinary teams to address technological challenges.
+### 🚀 Currently, i'm studying to become a Data Engineer
 
 ### Where to find me
-
 - [LinkedIn](https://www.linkedin.com/in/dylan-ferreyra-95698834a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+
 <!--
 **DylanGonzaloFerreyra/DylanGonzaloFerreyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
