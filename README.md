@@ -1,7 +1,5 @@
-<h2>
-  <img src="favicon.svg" alt="Logo" style="width: 50px; vertical-align: middle; position: relative; top: 10px;">
-  Hi there 👋
-</h2>
+## Hi there 👋, my name is Dylan Ferreyra From Argentina 🇦🇷 
+
 
 ## 🚀 Currently, I'm studying to become a Data Engineer
 ### Where to find me
