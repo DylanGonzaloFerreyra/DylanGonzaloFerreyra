@@ -35,22 +35,49 @@
 </p>
 
 ---
+<h3 align="left">💼 Work Experience</h3>
 
-### 🛠️ Skills & Technologies
+**Data & Backend Engineer | Wollen Labs** *(Nov 2025 - Present)*
+- Architected a high-frequency background job engine to manage complex priority logic.
+- Led a core database refactoring initiative to a scalable domain-driven architecture.
+- Developed a centralized multi-channel notification system (Resend, Twilio, WebSockets).
+- Standardized the API layer using tRPC and Zod for end-to-end type safety.
 
-**Data Engineering & Analytics**
-- **Languages:** Python (Pandas, Faker), SQL.
-- **Workflow Orchestration:** Apache Airflow.
-- **Data Warehousing & Transformation:** Snowflake, dbt (Data Build Tool).
-- **Big Data & Cloud:** Apache Spark, Supabase, MongoDB.
-- **Visualization:** Power BI.
+**Software Developer Intern | UNITEC - Edetec - LabTec at UNLP** *(Apr 2025 - Nov 2025)*
+- Developed interactive 3D simulation logic in Unity for a home automation system (Casa Adaptada).
+- Built an Augmented Reality application using Unity and Vuforia SDK.
+- Collaborated on embedded systems development with Arduino (I2C, PWM, EEPROM).
 
-**Software & App Development**
-- **Frontend/Mobile:** React Native (Expo SDK 54).
-- **Backend:** Express 5, Node.js.
-- **Database:** PostgreSQL, Drizzle ORM.
-- **Game Dev & Simulation:** Unity, Vuforia SDK (AR), C#.
+<br>
 
+<h3 align="left">🛠️ Skills & Technologies</h3>
+
+**Programming & Backend:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
+
+**Databases & Cloud:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Data & Tools:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+
+<br>
+
+<h3 align="left">🎓 Education & Certifications</h3>
+
+- **Data Scientist** - Facultad de Informática | Cs. Económicas (UNLP) *(2026 - Present)*
+- **High School Diploma in Electronics** - San Vicente de Paul Technical School
+- **Certifications:** CS50's Python & SQL, IBM's Big Data Certificate.
+
+<br>
 ---
 
 ### 📁 Featured Projects
