@@ -25,10 +25,10 @@
 
 ---
 
-### 🚀 Take a look at my portfolio!
+### Take a look at my portfolio!
 <p align="center">
   <a href="https://dylangonzaloferreyra.github.io">
-    <img src="https://img.shields.io/badge/CHECK_OUT_MY-PORTFOLIO-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Banner" width="400">
+    <img src="https://github.com/DylanGonzaloFerreyra/DylanGonzaloFerreyra/blob/main/assets/PortfolioBanner.png" alt="Portfolio Banner" width="400">
   </a>
   <br>
   <i>Click the banner above to see my full gallery of projects!</i>
