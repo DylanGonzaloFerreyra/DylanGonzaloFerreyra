@@ -31,8 +31,7 @@
     <img src="https://github.com/DylanGonzaloFerreyra/DylanGonzaloFerreyra/blob/main/assets/PortfolioBanner.png" alt="Portfolio Banner" width="400">
   </a>
   <br>
-  <i>Click the banner above to see my full gallery of projects!</i>
-</p>
+  </p>
 
 ---
 <h3 align="left">💼 Work Experience</h3>
