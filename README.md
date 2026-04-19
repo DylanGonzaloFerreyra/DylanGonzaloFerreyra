@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Dylan Ferreyra</h1>
-<h3 align="center">Data Engineer & Full-Stack Developer</h3>
+<h3 align="center">Data Engineer</h3>
 <p align="center">
   <b>Passionate about bridging the gap between complex data and actionable business solutions.</b>
 </p>
