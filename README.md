@@ -76,6 +76,7 @@
 - **Certifications:** CS50's Python & SQL, IBM's Big Data Certificate.
 
 <br>
+
 ---
 
 ### 📁 Featured Projects
