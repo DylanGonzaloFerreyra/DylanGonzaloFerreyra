@@ -49,6 +49,28 @@
 
 <br>
 
+<h3 align="left">⛏️ Open Source: Minecraft in Rust</h3>
+
+<table>
+  <tr>
+    <td width="130" align="center" valign="top">
+      <img src="assets/nalyd006.png" width="96" height="96" alt="nalyd006's Minecraft face"><br>
+      <sub><b>nalyd006</b></sub>
+    </td>
+    <td valign="top">
+      Contributing to <a href="https://github.com/horizon-rust/horizon"><b>Horizon</b></a>, Minecraft: Java Edition 26.3 rewritten in Rust.
+      <ul>
+      <li><img src="https://img.shields.io/github/pulls/detail/state/horizon-rust/horizon/14319?label=" alt="state of pull request 14319" height="18" align="center"> <b>Fixed splitscreen dropping players:</b> a 96 MiB queue limit was cutting them off as they joined (<a href="https://github.com/horizon-rust/horizon/pull/14319">#14319</a>, commit <a href="https://github.com/horizon-rust/horizon/pull/14319/commits/3750bd11b1dbf6f95e229d273d47994534a1a5af"><code>3750bd1</code></a>)</li>
+      <li><img src="https://img.shields.io/github/pulls/detail/state/horizon-rust/horizon/13859?label=" alt="state of pull request 13859" height="18" align="center"> <b>Moved the command tree out of <code>play.rs</code>:</b> down to 2,414 lines, from 4,173 originally (<a href="https://github.com/horizon-rust/horizon/pull/13859">#13859</a>, commit <a href="https://github.com/horizon-rust/horizon/commit/791468c6604042b923c0ee4ac3a257db45c6cd99"><code>791468c</code></a>)</li>
+      <li><img src="https://img.shields.io/github/pulls/detail/state/horizon-rust/horizon/13079?label=" alt="state of pull request 13079" height="18" align="center"> <b>Moved 1,442 lines of tests out of <code>play.rs</code></b>, with every test still passing (<a href="https://github.com/horizon-rust/horizon/pull/13079">#13079</a>, commit <a href="https://github.com/horizon-rust/horizon/commit/ba998968f60714c7e9882f0d89d0eaca64e5c82d"><code>ba99896</code></a>)</li>
+      </ul>
+      <a href="https://github.com/horizon-rust/horizon/pulls?q=is%3Apr+author%3ADylanGonzaloFerreyra">See all my pull requests →</a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <h3 align="left">🛠️ Skills & Technologies</h3>
 
 **Programming & Backend:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
