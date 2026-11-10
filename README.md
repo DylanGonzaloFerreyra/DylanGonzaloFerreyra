@@ -60,6 +60,7 @@
     <td valign="top">
       Contributing to <a href="https://github.com/horizon-rust/horizon"><b>Horizon</b></a>, Minecraft: Java Edition 26.3 rewritten in Rust.
       <ul>
+      <li><img src="https://img.shields.io/badge/native%20mod-0d9488" alt="native mod" height="18" align="center"> <b>Data Exporter:</b> a native mod that saves what happens in your game to files on your computer (<a href="https://github.com/DylanGonzaloFerreyra/horizon-data-exporter">repo</a>)</li>
       <li><img src="https://img.shields.io/github/pulls/detail/state/horizon-rust/horizon/14319?label=" alt="state of pull request 14319" height="18" align="center"> <b>Fixed splitscreen dropping players:</b> a player could be kicked a second after joining, and now everyone stays in (<a href="https://github.com/horizon-rust/horizon/pull/14319">#14319</a>, commit <a href="https://github.com/horizon-rust/horizon/pull/14319/commits/3750bd11b1dbf6f95e229d273d47994534a1a5af"><code>3750bd1</code></a>)</li>
       <li><img src="https://img.shields.io/github/pulls/detail/state/horizon-rust/horizon/13859?label=" alt="state of pull request 13859" height="18" align="center"> <b>Made the network protocol easier to maintain:</b> split the file behind the packets sent while you play (inventory, chunks, entities, chat and more) into focused modules (<a href="https://github.com/horizon-rust/horizon/pull/13079">#13079</a>, <a href="https://github.com/horizon-rust/horizon/pull/13859">#13859</a>)</li>
       </ul>
